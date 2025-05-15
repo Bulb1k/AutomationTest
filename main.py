@@ -4,6 +4,7 @@ from core.session import Session
 from workflows import AuthFlow, ShopFlow
 from data.logger_config import logger
 from data.config import ON_PROXY
+from faker import Faker
 
 def main():
     logger.info("Створення сессии")
@@ -18,8 +19,15 @@ def main():
         return
 
     shop = ShopFlow(session)
-    shop.add_to_cart()
-    shop.purchase()
+    shop.add_to_cart(count=1, price={"min": 0, "max": 200})
+
+    faker = Faker()
+    shop.purchase(
+        first_name=faker.first_name(),
+        last_name=faker.last_name(),
+        postal_code=faker.postalcode(),
+    )
+
 
 
 if __name__ == "__main__":

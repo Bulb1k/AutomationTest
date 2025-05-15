@@ -75,3 +75,21 @@ DELAYS = {
 ### Скріншоти
 Скріншоти зберігаються у папці `screenshots/` з іменами, що відповідають URL-адресам сторінок.
 Ви можете виключити цю функцію, змінивши параметр `DO_SCREENSHOT` у файлі конфігурації на `False`.
+
+### Список фіктивних данних входу
+
+Дані входу можна змінмювати у файлі `data/config.py`.
+
+#### Користувачі
+```
+standard_user
+locked_out_user 
+problem_user 
+performance_glitch_user
+error_user
+visual_user
+```
+
+#### Паролі
+```
+secret_sauce
