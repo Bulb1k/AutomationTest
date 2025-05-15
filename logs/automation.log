@@ -104,3 +104,13 @@ Call log:
 2025-05-15 15:50:59 - automation - WARNING - Помилка входу користувача 'locked_out_user': Epic sadface: Sorry, this user has been locked out.
 2025-05-15 15:50:59 - automation - ERROR - Помилка типу Exception під час логіну: Epic sadface: Sorry, this user has been locked out.
 2025-05-15 15:50:59 - automation - INFO - 📸 Скріншот збережено: screenshots/error/login_error_2025-05-15_15-50-59.png
+2025-05-15 15:53:16 - automation - INFO - Створення сессии
+2025-05-15 15:53:37 - automation - INFO - Створення сессии
+2025-05-15 15:54:33 - automation - INFO - Створення сессии
+2025-05-15 15:54:42 - automation - ERROR - Помилка типу Error під час логіну: Page.goto: net::ERR_TIMED_OUT at https://www.saucedemo.com/
+Call log:
+  - navigating to "https://www.saucedemo.com/", waiting until "load"
+
+2025-05-15 15:54:42 - automation - INFO - 📸 Скріншот збережено: screenshots/error/login_error_2025-05-15_15-54-42.png
+2025-05-15 15:55:09 - automation - INFO - Створення сессии
+2025-05-15 15:55:18 - automation - INFO - Успішний вхід користувача 'standard_user'

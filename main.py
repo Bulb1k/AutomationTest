@@ -5,10 +5,13 @@ from workflows import AuthFlow, ShopFlow
 from data.logger_config import logger
 from data.config import ON_PROXY
 from faker import Faker
+from utils.helpers import get_proxies
+from random import choice as rand_choice
 
 def main():
     logger.info("Створення сессии")
-    session = Session()
+    proxy = rand_choice(get_proxies()) if ON_PROXY else None
+    session = Session(proxy=proxy)
     session.start()
 
     auth = AuthFlow(session)
