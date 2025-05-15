@@ -12,7 +12,7 @@ def main():
     session.start()
 
     auth = AuthFlow(session)
-    is_auth = auth.login()
+    is_auth = auth.login(username='locked_out_user')
     if not is_auth:
         time.sleep(3)
         session.stop()

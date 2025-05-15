@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### 3. Встановлення Playwright та браузерів
 
 ```bash
-playwright install
+python -m playwright install
 ```
 
 ### 4. Запуск основного скрипта

@@ -100,3 +100,7 @@ Call log:
 2025-05-15 15:49:45 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-200.
 2025-05-15 15:50:07 - automation - INFO - 📸 Скріншот збережено: screenshots/success/purchase_2025-05-15_15-50-07.png
 2025-05-15 15:50:07 - automation - INFO - 🛒 Покупка завершена успішно.
+2025-05-15 15:50:50 - automation - INFO - Створення сессии
+2025-05-15 15:50:59 - automation - WARNING - Помилка входу користувача 'locked_out_user': Epic sadface: Sorry, this user has been locked out.
+2025-05-15 15:50:59 - automation - ERROR - Помилка типу Exception під час логіну: Epic sadface: Sorry, this user has been locked out.
+2025-05-15 15:50:59 - automation - INFO - 📸 Скріншот збережено: screenshots/error/login_error_2025-05-15_15-50-59.png
