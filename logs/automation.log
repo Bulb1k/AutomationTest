@@ -1,0 +1,94 @@
+2025-05-15 13:44:17 - automation - INFO - Створення сессии
+2025-05-15 13:44:17 - automation - INFO - Авторизація в акаунт
+2025-05-15 13:44:58 - automation - INFO - Створення сессии
+2025-05-15 13:44:59 - automation - INFO - Авторизація в акаунт
+2025-05-15 13:45:48 - automation - INFO - Створення сессии
+2025-05-15 13:45:49 - automation - INFO - Авторизація в акаунт
+2025-05-15 13:45:57 - automation - INFO - Авторизація пройшла успішно
+2025-05-15 13:47:23 - automation - INFO - Створення сессии
+2025-05-15 13:47:24 - automation - INFO - Авторизація в акаунт
+2025-05-15 13:47:31 - automation - INFO - Авторизація пройшла успішно
+2025-05-15 13:47:31 - automation - INFO - Початок шопінгу
+2025-05-15 13:47:31 - automation - INFO - Додаємо товари в корзину
+2025-05-15 13:47:39 - automation - INFO - Оформляємо замовлення
+2025-05-15 13:48:00 - automation - INFO - Замовлення оформлено
+2025-05-15 14:05:48 - automation - INFO - Створення сессии
+2025-05-15 14:05:56 - automation - INFO - Успішний вхід користувача 'standard_user'
+2025-05-15 14:05:59 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:06:21 - automation - INFO - 🛒 Покупка завершена успішно.
+2025-05-15 14:06:38 - automation - INFO - Створення сессии
+2025-05-15 14:06:46 - automation - INFO - Успішний вхід користувача 'standard_user'
+2025-05-15 14:06:49 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:07:10 - automation - ERROR - ❌ Помилка при покупці: AttributeError - 'Session' object has no attribute 'page'
+2025-05-15 14:07:48 - automation - INFO - Створення сессии
+2025-05-15 14:08:00 - automation - INFO - Створення сессии
+2025-05-15 14:08:07 - automation - WARNING - Помилка входу користувача 'test': Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:09:43 - automation - INFO - Створення сессии
+2025-05-15 14:09:49 - automation - WARNING - Помилка входу користувача 'test': Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:10:28 - automation - INFO - Створення сессии
+2025-05-15 14:10:35 - automation - WARNING - Помилка входу користувача 'test': Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:12:00 - automation - INFO - Створення сессии
+2025-05-15 14:12:07 - automation - WARNING - Помилка входу користувача 'test': Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:12:55 - automation - INFO - Створення сессии
+2025-05-15 14:13:01 - automation - WARNING - Помилка входу користувача 'test': Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:13:15 - automation - INFO - Створення сессии
+2025-05-15 14:13:21 - automation - WARNING - Помилка входу користувача 'test': Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:14:58 - automation - INFO - Створення сессии
+2025-05-15 14:15:04 - automation - WARNING - Помилка входу користувача 'test': Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:15:04 - automation - ERROR - Помилка типу Exception під час логіну: Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:15:04 - automation - INFO - 📸 Скріншот збережено: screenshots/error/login_error_2025-05-15_14-15-04.png
+2025-05-15 14:15:19 - automation - INFO - Створення сессии
+2025-05-15 14:15:27 - automation - WARNING - Помилка входу користувача 'test': Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:15:27 - automation - ERROR - Помилка типу Exception під час логіну: Epic sadface: Username and password do not match any user in this service
+2025-05-15 14:15:27 - automation - INFO - 📸 Скріншот збережено: screenshots/error/login_error_2025-05-15_14-15-27.png
+2025-05-15 14:16:03 - automation - INFO - Створення сессии
+2025-05-15 14:16:12 - automation - INFO - Успішний вхід користувача 'error_user'
+2025-05-15 14:16:14 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:16:36 - automation - INFO - 📸 Скріншот збережено: screenshots/success/purchase_2025-05-15_14-16-36.png
+2025-05-15 14:16:36 - automation - INFO - 🛒 Покупка завершена успішно.
+2025-05-15 14:19:13 - automation - INFO - Створення сессии
+2025-05-15 14:19:20 - automation - INFO - Успішний вхід користувача 'error_user'
+2025-05-15 14:19:23 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:19:41 - automation - INFO - 📸 Скріншот збережено: screenshots/success/purchase_2025-05-15_14-19-41.png
+2025-05-15 14:19:41 - automation - INFO - 🛒 Покупка завершена успішно.
+2025-05-15 14:20:02 - automation - INFO - Створення сессии
+2025-05-15 14:20:10 - automation - INFO - Успішний вхід користувача 'error_user'
+2025-05-15 14:20:11 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:20:31 - automation - INFO - 📸 Скріншот збережено: screenshots/success/purchase_2025-05-15_14-20-31.png
+2025-05-15 14:20:31 - automation - INFO - 🛒 Покупка завершена успішно.
+2025-05-15 14:23:38 - automation - INFO - Створення сессии
+2025-05-15 14:23:45 - automation - INFO - Успішний вхід користувача 'error_user'
+2025-05-15 14:23:47 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:24:37 - automation - ERROR - ❌ Помилка при покупці: TimeoutError - Frame.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h2.complete-header") to be visible
+
+2025-05-15 14:24:38 - automation - INFO - 📸 Скріншот збережено: screenshots/error/purchase_error_2025-05-15_14-24-37.png
+2025-05-15 14:24:54 - automation - INFO - Створення сессии
+2025-05-15 14:25:03 - automation - INFO - Успішний вхід користувача 'standard_user'
+2025-05-15 14:25:05 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:25:26 - automation - ERROR - ❌ Помилка при покупці: AttributeError - 'NoneType' object has no attribute 'wait_for_selector'
+2025-05-15 14:25:26 - automation - INFO - 📸 Скріншот збережено: screenshots/error/purchase_error_2025-05-15_14-25-26.png
+2025-05-15 14:27:21 - automation - INFO - Створення сессии
+2025-05-15 14:27:29 - automation - INFO - Успішний вхід користувача 'standard_user'
+2025-05-15 14:27:31 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:27:49 - automation - ERROR - ❌ Помилка при покупці: AttributeError - 'NoneType' object has no attribute 'wait_for_selector'
+2025-05-15 14:27:50 - automation - INFO - 📸 Скріншот збережено: screenshots/error/purchase_error_2025-05-15_14-27-49.png
+2025-05-15 14:30:01 - automation - INFO - Створення сессии
+2025-05-15 14:30:10 - automation - INFO - Успішний вхід користувача 'standard_user'
+2025-05-15 14:30:12 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:30:32 - automation - ERROR - ❌ Помилка при покупці: AttributeError - 'NoneType' object has no attribute 'content'
+2025-05-15 14:30:32 - automation - INFO - 📸 Скріншот збережено: screenshots/error/purchase_error_2025-05-15_14-30-32.png
+2025-05-15 14:32:18 - automation - INFO - Створення сессии
+2025-05-15 14:32:26 - automation - INFO - Успішний вхід користувача 'standard_user'
+2025-05-15 14:32:28 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:32:53 - automation - INFO - 📸 Скріншот збережено: screenshots/success/purchase_2025-05-15_14-32-53.png
+2025-05-15 14:32:53 - automation - INFO - 🛒 Покупка завершена успішно.
+2025-05-15 14:33:20 - automation - INFO - Створення сессии
+2025-05-15 14:33:27 - automation - INFO - Успішний вхід користувача 'error_user'
+2025-05-15 14:33:30 - automation - INFO - 🛒 Додано до кошика 1 товарів у діапазоні цін 0-999999.
+2025-05-15 14:34:19 - automation - ERROR - ❌ Помилка при покупці: TimeoutError - Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h2.complete-header")
+
+2025-05-15 14:34:19 - automation - INFO - 📸 Скріншот збережено: screenshots/error/purchase_error_2025-05-15_14-34-19.png
